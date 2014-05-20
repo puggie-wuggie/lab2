@@ -53,6 +53,7 @@ public class GitLab implements EntryPoint {
 
 //<<<<<< HEAD
 	private int daniskewl;
+	private int anotherchangedandan;
 
 	private final FlexTable flexTable = new FlexTable();
 //=======
