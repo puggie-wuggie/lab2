@@ -52,12 +52,8 @@ public class GitLab implements EntryPoint {
 			+ "connection and try again.";
 
 //<<<<<< HEAD
-<<<<<<< HEAD
-	private int daniskewl;
-	private int anotherchangedandan;
-=======
-	private int daniel's branch;
->>>>>>> daniel
+	
+	private int for testing Oliva branch;
 
 	private final FlexTable flexTable = new FlexTable();
 //=======
