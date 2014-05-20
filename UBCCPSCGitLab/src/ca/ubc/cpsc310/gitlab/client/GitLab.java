@@ -52,7 +52,7 @@ public class GitLab implements EntryPoint {
 			+ "connection and try again.";
 
 //<<<<<< HEAD
-	private edited by Dan this is awesome
+	private int daniskewl;
 	private final FlexTable flexTable = new FlexTable();
 //=======
 
